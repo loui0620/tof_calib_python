@@ -1,0 +1,3 @@
+white balance = 4300
+exposure = -7
+nCamera = 2
